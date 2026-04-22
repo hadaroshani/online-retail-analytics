@@ -10,12 +10,12 @@ This project analyzes transaction data from a UK-based online retailer (2010–2
 - Changes in average order value over time
 
 ## What I found
-- The UK drives the majority of revenue, far ahead of other countries
-- November generates the highest revenue, likely due to Black Friday and early holiday demand
-- Sales drop sharply in February following the holiday season
-- 489 customers fall into the “Champion” segment (high value and frequent buyers)
-- Over 2,000 customers are inactive, suggesting a strong opportunity for re-engagement campaigns
-- Interestingly, the top-selling product also has the highest number of returns, which could point to quality or expectation issues
+- The UK drives the majority of revenue, showing a heavy reliance on a single market
+- November generates the highest revenue, likely driven by Black Friday and early holiday demand
+- Sales drop sharply in February, reflecting a post-holiday slowdown in customer activity
+  489 customers fall into the “Champion” segment, representing a high-value group worth prioritizing for retention
+- Over 2,000 customers are inactive, highlighting a clear opportunity for targeted re-engagement campaigns
+- The top-selling product also has the highest number of returns, which may indicate quality issues or a mismatch between product expectations and delivery
 
 ## Tools
 Python (pandas, matplotlib, seaborn), SQL, Tableau
