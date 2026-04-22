@@ -1,6 +1,6 @@
 # Online Retail Analytics
 
-This project analyzes transaction data from a UK-based online retailer (2010–2011). I used it to practice turning raw data into business insights using Python and Tableau.
+This project analyzes transaction data from a UK-based online retailer (2010–2011).I focused on identifying revenue drivers, customer behavior patterns, and potential business opportunities from transaction data using Python and Tableau.
 
 ## What I looked at
 - Revenue by country and product
