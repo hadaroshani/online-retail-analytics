@@ -23,3 +23,6 @@ Python (pandas, matplotlib, seaborn), SQL, Tableau
 ## Dataset
 From the UCI Machine Learning Repository. Due to GitHub file size limits, this repo includes a 10,000-row sample. The full dataset is available here:
 [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail)
+
+## Dashboard Preview
+![Online Retail Analytics Dashboard](Online%20Retail%20Analytics%20Dashboard.png)
